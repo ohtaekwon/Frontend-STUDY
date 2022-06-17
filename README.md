@@ -23,6 +23,7 @@
 - [React 데이터 받아오기](https://github.com/ohtaekwon/TIL/tree/master/React/React-Data)
     - 서버에서 데이터 불러오기 : `fetch` = [fetch](https://github.com/ohtaekwon/TIL/tree/master/React/React-Web)
     - 초기 데이터 불러오기: 'useEffect`  = [useEffect](https://github.com/ohtaekwon/TIL/tree/master/React/React-Web)
+    - 제어 vs 비제어 컴포넌트 : [제어vs비제어](https://github.com/hanameee/mini-signup-form-react/wiki/%5B%EA%B0%95%EC%9D%98%EC%95%88%5D-%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%EB%B9%84%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
 - [React Web](https://github.com/ohtaekwon/TIL/tree/master/React/React-Web)
 
 ## SASS
