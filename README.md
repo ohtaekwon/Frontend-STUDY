@@ -22,13 +22,13 @@
 <br/>
 
 ## 개발환경 nodejs
-### Webpack
-- [바로가기](https://github.com/ohtaekwon/webpack-template-basic)
+1. Webpack
+    - [바로가기](https://github.com/ohtaekwon/webpack-template-basic)
 
-### Parcel 번들러
-- [바로가기](https://github.com/ohtaekwon/parcle-template-basic)
-- [공급업체접두사](https://github.com/ohtaekwon/parcle-template-basic#%EA%B3%B5%EA%B8%89-%EC%97%85%EC%B2%B4-%EC%A0%91%EB%91%90%EC%82%ACvender-prefix)
-- [babel](https://github.com/ohtaekwon/parcle-template-basic#babel)
+2. Parcel 번들러
+    - [바로가기](https://github.com/ohtaekwon/parcle-template-basic)
+    - [공급업체접두사](https://github.com/ohtaekwon/parcle-template-basic#%EA%B3%B5%EA%B8%89-%EC%97%85%EC%B2%B4-%EC%A0%91%EB%91%90%EC%82%ACvender-prefix)
+    - [babel](https://github.com/ohtaekwon/parcle-template-basic#babel)
 
 ## <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
