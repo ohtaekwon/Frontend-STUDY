@@ -1,4 +1,5 @@
-# ✍ My STUDY History (feat. FrontEnd, JavaScript, React, Vue, Python, Data etc..)
+# ✍ My STUDY History 
+#### (feat. FrontEnd, JavaScript, React, Vue, Python, Data etc..)
 
 <br/>
 
@@ -14,8 +15,6 @@
     - [리액트 라우팅](https://github.com/ohtaekwon/React-Routes-test#2-%EB%9D%BC%EC%9A%B0%ED%8C%85routing)
     - **어려웠던 부분**
 
-<br/>
-
 ## <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
 - [자바스크립트 기본 1](https://github.com/ohtaekwon/TIL-JavaScript/tree/master/Modern-JavaScript#today-i-learning-repositories)
@@ -23,13 +22,9 @@
 - [자바스크립트 정리 - DeepDive](https://github.com/ohtaekwon/TIL-JavaScript/tree/master/Moder-JavaScript-Deep-Dive)
 - [정규식표현(RegExp)](https://github.com/ohtaekwon/RegExp#%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9Dregexp)
 
-<br/>
-
 ## <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
 - [vue.js study](https://github.com/ohtaekwon/TIL/tree/master/vue)
 - [vue.js Project - Movie App](https://github.com/ohtaekwon/TIL/tree/master/Vue-Movie-Project)
-
-<br/>
 
 ## <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react"> 
 - [React 기초](https://github.com/ohtaekwon/TIL/tree/master/React/React-Basic)
@@ -39,17 +34,12 @@
     - 제어 vs 비제어 컴포넌트 : [제어vs비제어](https://github.com/hanameee/mini-signup-form-react/wiki/%5B%EA%B0%95%EC%9D%98%EC%95%88%5D-%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%EB%B9%84%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
 - [React Web](https://github.com/ohtaekwon/TIL/tree/master/React/React-Web)
 
-<br/>
 
 ## SASS
 - [SASS 기초](https://github.com/ohtaekwon/TIL/tree/master/SCSS#scss-sass)
 
-<br/>
-
 ## BootStrap
 - [BootStrap 기초](https://github.com/ohtaekwon/TIL/tree/master/bootstrap#bootstraps)
-
-<br/>
 
 ## Pre-Test
 
