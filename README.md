@@ -1,5 +1,4 @@
-# ✍ My STUDY History (feat. FrontEnd, Python, Data)
-
+# ✍ My STUDY History (feat. FrontEnd, JavaScript, React, Vue, Python, Data etc..)
 
 <br/>
 
@@ -8,12 +7,12 @@
 1. Sing Page App with Vanlia JS - [바로가기](https://github.com/ohtaekwon/Vanlia-JS-Single-Page-App-Test)
     - [express 서버구현](https://github.com/ohtaekwon/Vanlia-JS-Single-Page-App-Test#2-express-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
     - [라우터 구현](https://github.com/ohtaekwon/Vanlia-JS-Single-Page-App-Test#3-router-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
-1.1. **어려웠던 부분** : [에러 이슈](https://github.com/ohtaekwon/Vanlia-JS-Single-Page-App-Test#%EC%97%90%EB%9F%AC-%EC%9D%B4%EC%8A%88)
+     - **어려웠던 부분** : [에러 이슈](https://github.com/ohtaekwon/Vanlia-JS-Single-Page-App-Test#%EC%97%90%EB%9F%AC-%EC%9D%B4%EC%8A%88)
 
 2. Sing Page App with Vanlia React - [바로가기](https://github.com/ohtaekwon/React-Routes-test)
     - [전통 방식과 SPA방식](https://github.com/ohtaekwon/React-Routes-test#1-%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8-%EB%B0%A9%EC%8B%9D%EA%B3%BC-spa%EB%B0%A9%EC%8B%9D)
-    - [리액트 라우팅](https://github.com/ohtaekwon/React-Routes-test#2-%EB%9D%BC%EC%9A%B0%ED%8C%85routing_
-2.1. **어려웠던 부분**
+    - [리액트 라우팅](https://github.com/ohtaekwon/React-Routes-test#2-%EB%9D%BC%EC%9A%B0%ED%8C%85routing)
+    - **어려웠던 부분**
 
 ## <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> JavaScript  
 
