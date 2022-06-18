@@ -14,11 +14,11 @@
     - [전통 방식과 SPA방식](https://github.com/ohtaekwon/React-Routes-test#1-%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8-%EB%B0%A9%EC%8B%9D%EA%B3%BC-spa%EB%B0%A9%EC%8B%9D)
     - [리액트 라우팅](https://github.com/ohtaekwon/React-Routes-test#2-%EB%9D%BC%EC%9A%B0%ED%8C%85routing)
     - [**어려웠던 부분**](https://github.com/ohtaekwon/React-Routes-test#%EC%96%B4%EB%A0%A4%EC%9B%A0%EB%8D%98-%EB%B6%80%EB%B6%84)
-    - [<Switch> 대신 <Routes>](https://github.com/ohtaekwon/React-Routes-test#switch-%EB%8C%80%EC%8B%A0-routes)
-    - [복수의 라우팅을 막는 exact](https://github.com/ohtaekwon/React-Routes-test#%EB%B3%B5%EC%88%98%EC%9D%98-%EB%9D%BC%EC%9A%B0%ED%8C%85%EC%9D%84-%EB%A7%89%EB%8A%94-exact)
-    - [Props 사용](https://github.com/ohtaekwon/React-Routes-test#props%EC%9D%98-%EC%82%AC%EC%9A%A9)
-    - [useHistory 대신 useNavigate](https://github.com/ohtaekwon/React-Routes-test#usehistory-%EB%8C%80%EC%8B%A0-usenavigate)
-    - 많은 부분들에서 기존의 v5에서 v6로 넘어가면서, 기능들이 변경이 되었고, 삭제가 되었기 때문에 반드시 관련 공부가 
+        - [Switch 대신 Routes](https://github.com/ohtaekwon/React-Routes-test#switch-%EB%8C%80%EC%8B%A0-routes)
+        - [복수의 라우팅을 막는 exact](https://github.com/ohtaekwon/React-Routes-test#%EB%B3%B5%EC%88%98%EC%9D%98-%EB%9D%BC%EC%9A%B0%ED%8C%85%EC%9D%84-%EB%A7%89%EB%8A%94-exact)
+        - [Props 사용](https://github.com/ohtaekwon/React-Routes-test#props%EC%9D%98-%EC%82%AC%EC%9A%A9)
+        - [useHistory 대신 useNavigate](https://github.com/ohtaekwon/React-Routes-test#usehistory-%EB%8C%80%EC%8B%A0-usenavigate)
+        - 많은 부분들에서 기존의 v5에서 v6로 넘어가면서, 기능들이 변경이 되었고, 삭제가 되었기 때문에 반드시 관련 공부가 
 
 
 ## <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
