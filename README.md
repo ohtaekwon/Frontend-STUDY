@@ -70,7 +70,8 @@
 - [siginup-form with React](https://github.com/ohtaekwon/React-mini-signup-form) 만들기
 
 ### 2. 프리온보딩
-[사전 과제 바로가기]([https://github.com/ohtaekwon/wanted-pre-onboarding-fe](https://github.com/ohtaekwon/wanted-pre-onboarding-fe/tree/master))
+
+[사전 과제 바로가기]([https://github.com/ohtaekwon/wanted-pre-onboarding-fe](https://github.com/ohtaekwon/wanted-pre-onboarding-fe/tree/master)
 
 - Login 기능 / 반응형 GNB / 아이디 정규성 검사 / SPA 라우팅 / json데이터 통신
  
